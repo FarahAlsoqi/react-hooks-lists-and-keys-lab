@@ -27,7 +27,7 @@ Here is an image of what we want once we are finished:
         |   ProjectItem
         └── ProjectItem
 ```
-
+ 
 ## Deliverables
 
 It's recommended that you run `npm start` and work on this in the browser
